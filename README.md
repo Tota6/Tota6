@@ -1,5 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Martina Kamal</h1>
 <h3 align="center">A mobile developer from Egypt</h3>
 <img  align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/09e4930a59167dcea9c9f2d64a1a73a31e89cdde6f1de97ed44d6a726a4ea388/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e6769663f7261773d74727565">
